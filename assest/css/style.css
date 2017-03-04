@@ -11,14 +11,29 @@ body {
 .timer {
     color: white;
     text-align: center;
+    font-family: 'Nobile', Helvetica, Arial, sans-serif;
+    text-shadow: 1px 1px 1px #ccc;
+    letter-spacing: 3px;
+    line-height: 1.8;
+    word-spacing: 5px;
 }
 
 .question {
     color: white;
     text-align: center;
+    font-family: 'Nobile', Helvetica, Arial, sans-serif;
+    text-shadow: 1px 1px 1px #ccc;
+    letter-spacing: 3px;
+    line-height: 1.8;
+    word-spacing: 5px;
 }
 
 .arrayanswers {
     text-align: center;
     color: white;
+    font-family: 'Nobile', Helvetica, Arial, sans-serif;
+    text-shadow: 1px 1px 1px #ccc;
+    letter-spacing: 3px;
+    line-height: 1.8;
+    word-spacing: 5px;
 }
